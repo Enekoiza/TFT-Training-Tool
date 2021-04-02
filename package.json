@@ -1,1 +1,24 @@
-{}
+{
+  "name": "tft-training-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enekoiza/TFT-Training-Tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enekoiza/TFT-Training-Tool/issues"
+  },
+  "homepage": "https://github.com/Enekoiza/TFT-Training-Tool#readme",
+  "description": "",
+  "dependencies": {
+    "eslint": "^7.23.0",
+    "nodemon": "^2.0.7"
+  }
+}
